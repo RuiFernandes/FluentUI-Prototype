@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fluentui/react-northstar": "^0.53.0",
+    "@fluentui/react-tabs": "^0.6.21",
     "next": "10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
